@@ -1,0 +1,1 @@
+Ejercicio: Crea una página web personal que incluya: header con navegación, sección "Sobre mí", galería de proyectos, y formulario de contacto. Usa elementos semánticos apropiados y valida el formulario. Incluye meta tags para SEO y asegura que sea responsive.
